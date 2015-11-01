@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "authors": [
+    "Manuel Barros <manuelbarrosr@gmail.com>"
+  ],
+  "description": "Demo de Bower",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery-form-validator": "~2.2.81"
+  }
+}
