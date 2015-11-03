@@ -40,10 +40,10 @@ font-size: 1em;
 
 /*SECCIÓN DATOS INDEX*/
 
-/*.datos {
-background-color: #ddd;
-border: 1px solid black;
-}*/
+.datos {
+	background-color: #ddd;
+
+}
 
 .photo-container{
 	text-transform: uppercase;
