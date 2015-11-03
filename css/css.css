@@ -1,0 +1,97 @@
+/*CABECERA*/
+
+.subt{
+font-weight: lighter;
+font-size: 1.5em;
+}
+
+.navbar-p {
+background-color: #FFF;
+}
+
+.page-header {
+margin-top: 10px;
+padding-bottom: 0px;
+border-bottom: none;
+}
+
+.navbar-header {
+margin-top: -4px;
+}
+
+.subtseparator {
+font-size: 1em;
+}
+
+/*CUERPO INDEX*/
+
+.secciones {
+margin-bottom: 20px;
+}
+
+.secciones h2 {
+	margin-top: 0px;
+}
+
+hr {
+	margin-top: 0px;
+}
+
+/*SECCIÓN DATOS INDEX*/
+
+.datos {
+background-color: #ddd;
+border: 1px solid black;
+}
+
+.photo-container{
+	text-transform: uppercase;
+}
+
+.photo{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.texto-datos {
+	margin-bottom: 5px;
+}
+
+/*TEXTO SUBSITIO CONTACTO*/
+
+.textt {
+margin-bottom: 15px;
+}
+
+/*FORMULARIO CONTACTO*/
+
+.form1 {
+margin-right: 25px;
+}
+
+/*FOOTER*/
+
+.footer {
+margin-bottom: 20px;
+}
+
+.footer-creditos {
+font-size: 0.9em;
+color: #8a8a8a;
+}
+
+.footer-flecha {
+text-align: center;
+color: #8a8a8a;
+}
+
+.footer-mb1 {
+font-size: 0.9em;
+text-align: right;
+color: #8a8a8a;
+}
+
+.footer-mb2 {
+font-size: 0.9em;
+color: #8a8a8a;
+}
