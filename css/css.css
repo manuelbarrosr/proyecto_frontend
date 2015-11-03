@@ -25,24 +25,25 @@ font-size: 1em;
 
 /*CUERPO INDEX*/
 
-.secciones {
-margin-bottom: 20px;
+.caption h2 {
+	margin-top: 0px;
+	text-align: center;
 }
 
-.secciones h2 {
-	margin-top: 0px;
+.caption p {
+	text-align: center;
 }
 
-hr {
-	margin-top: 0px;
+.fotoperfil {
+	border-radius: 50%;
 }
 
 /*SECCIÓN DATOS INDEX*/
 
-.datos {
+/*.datos {
 background-color: #ddd;
 border: 1px solid black;
-}
+}*/
 
 .photo-container{
 	text-transform: uppercase;
