@@ -42,7 +42,10 @@ font-size: 1em;
 
 .datos {
 	background-color: #ddd;
+}
 
+br {
+   margin: 1px;
 }
 
 .photo-container{
@@ -56,6 +59,21 @@ font-size: 1em;
 
 .texto-datos {
 	margin-bottom: 5px;
+}
+
+/*DATAVIZ*/
+
+.title-dataviz {
+	border: 0px;
+	margin-bottom: 5px;
+}
+
+.title-dataviz p {
+	text-align: left;
+}
+
+.title-dataviz h2 {
+	text-align: left;
 }
 
 /*TEXTO SUBSITIO CONTACTO*/
